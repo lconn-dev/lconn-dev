@@ -1,5 +1,6 @@
 
 ### Hi there 👋 I'm Luke!
+----
 
 #### Badges & Certifications
 <img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="" width="100"/><img src="https://images.credly.com/size/340x340/images/721a41ab-a3ad-46c7-9999-49211e071db5/ged_overall.png" alt="" width="100"/>
@@ -15,9 +16,6 @@
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cplusplus.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://forth-standard.org" target="_blank"> <img src="https://forth-standard.org/images/forth.png" alt="forth" width="40" height="40"/> </a> 
 
 </p>
-
-
-#### &#x1f4c8; GitHub Stats
 <a href="https://github.com/lconn-dev/lconn-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lconn-dev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
