@@ -1,14 +1,11 @@
 
-### Hey there 👋 I'm Luke!
+### Hello!
 
 #### Badges & Certifications
 <img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="" width="100"/><img src="https://images.credly.com/size/340x340/images/721a41ab-a3ad-46c7-9999-49211e071db5/ged_overall.png" alt="" width="100"/>
 
-#### About Me
 - 💬 Ask me anything!
 - 👯 I’m looking to collaborate!
-- 🔭 I’m currently working on a toy concative language
-- 🌱 I’m currently learning x64 ASM
 
 #### Languages & Tools
 <p align="left"> 
