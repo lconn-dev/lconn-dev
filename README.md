@@ -2,7 +2,7 @@
 ### Hello!
 
 #### Badges & Certifications
-<img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="" width="100"/><img 
+<img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="" width="100"/>
 
 - 💬 Ask me anything!
 - 👯 I’m looking to collaborate!
